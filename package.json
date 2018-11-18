@@ -1,0 +1,13 @@
+{
+  "name": "domoticz-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "copy": "scp custom.css pi@192.168.2.32:domoticz/www/styles/sliim"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
